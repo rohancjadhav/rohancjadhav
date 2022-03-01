@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohancjadhav
 - 👀 I’m interested in ProblemSolving and development
-- 🌱 I’m currently Mern Stack
-- 💞️ I’m looking to collaborate on teaching folks
+- 🌱 I’m currently java full stack
+- 💞️ I’m looking to collaborate on teaching and freelancing projects.
 - 📫 How to reach me rohancjadhav4@gmail.com
 
 <!---
